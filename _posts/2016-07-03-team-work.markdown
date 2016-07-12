@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 6
-date: 2016-07-03
-img: team.png
-alt: team work
-description: We accept constructive criticism, and the more, the better
-
----

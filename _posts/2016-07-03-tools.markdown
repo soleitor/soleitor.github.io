@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2016-07-03
+img: blackboard.JPG
+alt: tools
+description: We keep in mind every day at work what we have learned
+
+---

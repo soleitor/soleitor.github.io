@@ -1,10 +1,10 @@
 # Site settings
-title: H4ckers manifest
-email: your-email@domain.com
-url: https://h4ckers.github.io
-description: "We are learners. We enjoy dreaming. We want to change the world. We are H4ckers"
-skills: "Thinkers - Full time learners - Dreamers"
-meta_author: H4ckers - A Masteryourself company from Teamlabs
+title: Soleitor manifest
+email: info@soleitor.com
+url: https://soleitor.github.io
+description: "Welcome to Soleitor"
+skills: "Creative coop"
+meta_author: Soleitor - A Masteryourself company from Teamlabs
 
 # Google webmaster tools
 google_verify:
@@ -24,14 +24,14 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: H4ckers
+  copyright: Soleitor
   location: Location
   social: Around the Web
   credits: Credits

@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 3
+date: 2016-07-03
+img: blackboard.JPG
+alt: 2017 goals
+description: Have a project ready by April 2017
+---
